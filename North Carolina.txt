@@ -1,0 +1,232 @@
+
+ North Carolina 
+Voter Registration List Maintenance 
+Updated August 21, 2024 
+Mailing Address: 
+P.O. Box 27255 
+Raleigh, NC 27611-7255 
+Phone: (919) 814-0700 
+Fax: (919) 715-0135 2 
+
+Contents 
+List Maintenance Authority – Statutes ................................................................................ 3 
+List Maintenance Program ................................................................................................. 12 
+Verification Mailings ......................................................................................................... 13 
+Death .................................................................................................................................. 17 
+Felony Conviction .............................................................................................................. 19 
+Duplicate Registrations ...................................................................................................... 24 
+Jury Excusals for Noncitizenship ...................................................................................................... 26 
+Biennial List Maintenance (No-Contact Process).............................................................. 27 
+National Change of Address (NCOA) ............................................................................... 32 
+List Maintenance Reports .................................................................................................. 36 3 
+
+List Maintenance Authority – Statutes 
+N.C.G.S. § 163-82.14. List maintenance. 
+(a) Requirement for List Maintenance. - In accordance with this section, the State Board and county boards of elections shall maintain the list of eligible voters in the State by providing for the following: 
+(1) The removal of the names of ineligible voters from the official lists of eligible voters. 
+(2) Updates to the addresses and other necessary data of persons who remain on the official lists of eligible voters. 
+(a1) Methods of List Maintenance; Cross State Checks. - List maintenance efforts under this section shall be nondiscriminatory and shall comply with the provisions of the Voting Rights Act of 1965, as amended, and with the provisions of the National Voter Registration Act. The State Board, in addition to the methods set forth in this section, may use other methods toward the ends set forth in subsection (a) of this section, including address-updating services provided by the Postal Service and entering into data sharing agreements with other states to cross-check information on voter registration and voting records. Any data sharing agreement shall require the other state or states to comply with G.S. 163-82.10 and G.S. 163-82.10B. 
+(b) Death. - In order to remove the names of deceased persons from the list of eligible voters in this State, the following shall occur: 
+(1) At a minimum of once per week, the Department of Health and Human Services shall furnish free of charge to the Executive Director, in a format prescribed by the State Board, the names of deceased persons who were residents of the State. Upon receipt of the list from the Department of Health and Human Services, the Executive Director shall distribute to each county board of elections the names on that list of deceased persons who were residents of that county. Upon the receipt of those names, each county board of elections shall remove from its voter registration records any person the list shows to be deceased each week. 
+(2) Upon receipt of a signed statement of a near relative or personal representative of the estate of a deceased voter indicating that the person has died, a county board of elections shall remove the person identified as deceased from its voter registration records within one week of receipt of the signed statement. The county board does not need to send any notice to the address of the person before removing the person from its voter registration records. 
+(c) Conviction of a Felony. - In order to remove the names of ineligible individuals from the list of eligible voters in this State, the following shall occur: 
+(1) At a minimum of once per week, the Executive Director shall compile a list of individuals against whom a final judgment of conviction of a felony within this State has been entered. The Executive Director shall report to each appropriate county board of elections the names of individuals from that county appearing on such list each week. 
+(2) At a minimum of once per week, the Executive Director shall compile a list of individuals against whom a federal conviction has been reported, based on a notice of conviction sent by a United States Attorney pursuant to section 8(g) of the National Voter Registration Act. The Executive Director shall report to 4 
+
+each appropriate county board of elections the names of individuals from that county appearing on such list each week. 
+(3) When a county board of elections receives a notice pursuant to subdivision (1) or (2) of this subsection relating to a resident of that county and that person is registered to vote in that county, the county board of elections shall, after giving 30 days' written notice to the voter at the address associated with that voter registration, and if the voter makes no objection, remove the person's name from its registration records. If the voter notifies the county board of elections of his objection to the removal within 30 days of the notice, the chair of the county board of elections shall enter a challenge under G.S. 163-85(c)(5), and the notice the county board of elections received pursuant to this subsection shall be prima facie evidence for the preliminary hearing that the registrant was convicted of a felony. 
+(c1) Noncitizens. - 
+(1) Within 30 days of receipt of the communication in accordance with G.S. 9-6.2, the State Board shall do each of the following: 
+a. Review the voter registration and citizenship status of each person identified, including the matching of available information in State and federal databases. 
+b. Distribute to each county board of elections a report of the persons identified who are registered to vote in that county. The report shall include the information provided by the clerk of superior court under G.S. 9-6.2, the voter registration number of the person, and the results of the State Board review of the person's voter registration and citizenship status. The State Board shall not include a person's name in the report if the State Board review determines that the individual became a citizen of the United States after the date of that person's jury disqualification. 
+c. In the event that the prospective juror voted prior to becoming a United States citizen, the State Board shall furnish the State Bureau of Investigation and the district attorney a copy of its investigation for prosecution of the violation as provided in G.S. 163-278. 
+(2) Within 30 days of receipt by a county board of elections of a report pursuant to this subsection relating to a person registered to vote in that county, the following shall occur: 
+a. The county board of elections shall give 30 days' written notice to the voter by sending notice to the voter's residential address and, if different from the voter's residential address, the voter's registration address and mailing address. If the voter makes no objection, the county board of elections shall remove the person's name from its registration records and shall provide written notice of the removal to the voter in the same manner as notice was previously provided under this sub-subdivision. The county board of elections shall indicate within the statewide computerized voter registration system any individual removed from the voter registration records on the basis of noncitizenship status. 
+b. If, within 30 days of the date on which notice was sent of the removal of a voter's name from registration records pursuant to sub-subdivision a. of 5 
+
+this subdivision, the voter notifies the county board of elections of the voter's objection to the removal, the chair of the county board of elections shall enter a challenge under G.S. 163-85(c)(7) and the notice provided to the county board of elections by the receipt of the report from the State Board pursuant to this subdivision shall establish a rebuttable presumption in the preliminary hearing heard pursuant to G.S. 163-85(d) that the person is not a citizen of the United States. The voter may appear with evidence to rebut the presumption, including any federal documentation of citizenship or evidence that the voter did not request to be excused from jury duty on the basis of noncitizenship. 
+(3) Except as provided by State and federal law, the records retained pursuant to this subsection are public records under G.S. 132-1, notwithstanding the requirements of G.S. 20-43.4(c). The State Board and county board of elections shall retain the electronic records for four years and may destroy the records thereafter. 
+(d) Change of Address. - In order to remove the names of individuals who have moved out of the county, the following shall occur: 
+(1) At a minimum of once per week, a county board of elections shall remove from its voter registration records the names of individuals who give confirmation in writing of a change of address for voting purposes out of the county. "Confirmation in writing" for purposes of this subdivision shall include any of the following: 
+a. A report to the county board from the Department of Transportation or from a voter registration agency listed in G.S. 163-82.20 that the voter has reported a change of address for voting purposes outside the county. 
+b. A notice of cancellation received under G.S. 163-82.9. 
+c. A notice of cancellation received from an election jurisdiction outside the State. 
+(2) Following each congressional election, the county board of elections shall send to each registered voter who has not voted or confirmed the voter's address by another means a confirmation mailing. The county board of elections shall remove from its voter registration records the names of individuals who fail to respond to the confirmation mailing sent by the county board in accordance with this subdivision and who do not vote or appear to vote in an election beginning on the date of the notice and ending on the day after the date of the second general election for the United States House of Representatives that occurs after the date of the notice. A county board of elections shall send a confirmation notice that complies with all of the following: 
+a. Is a postage prepaid and preaddressed return card, sent by forwardable mail, on which the registrant may state current address. 
+b. Contains or is accompanied by a notice to the effect that if the registrant did not change residence but remained in the county, the registrant should return the card not later than the deadline for registration by mail in G.S. 163-82.6(d)(1). 6 
+
+c. Contains or is accompanied by information as to how the registrant may continue to be eligible to vote if the registrant has moved outside the county. 
+(3) Any registered voter who is removed from the list of registered voters pursuant to this subsection shall be reinstated if the voter appears to vote and gives oral or written affirmation that the voter has not moved out of the county but has maintained residence continuously within the county. That person shall be allowed to vote as provided in G.S. 163-82.15(f). 
+(e) Cooperation on List Maintenance Efforts. - The State Board has the authority to perform list maintenance under this section with the same authority as a county board. 
+(f) Annual Report on List Maintenance Efforts. - County board of elections shall submit to the State Board an annual report, on or before September 1 of each year, of its list maintenance under this section. The State Board shall compile annual reports received from the county board of elections and submit the reports to the Joint Legislative Elections Oversight Committee on or before October 1 of each year. 
+52 U.S.C. § 20507. Requirements with respect to administration of voter registration 
+(a) In general. In the administration of voter registration for elections for Federal office, each State shall— 
+(1) ensure that any eligible applicant is registered to vote in an election— 
+(A) in the case of registration with a motor vehicle application under section 5 [52 USCS § 20504], if the valid voter registration form of the applicant is submitted to the appropriate State motor vehicle authority not later than the lesser of 30 days, or the period provided by State law, before the date of the election; 
+(B) in the case of registration by mail under section 6 [52 USCS § 20505], if the valid voter registration form of the applicant is postmarked not later than the lesser of 30 days, or the period provided by State law, before the date of the election; 
+(C) in the case of registration at a voter registration agency, if the valid voter registration form of the applicant is accepted at the voter registration agency not later than the lesser of 30 days, or the period provided by State law, before the date of the election; and 
+(D) in any other case, if the valid voter registration form of the applicant is received by the appropriate State election official not later than the lesser of 30 days, or the period provided by State law, before the date of the election; 
+(2) require the appropriate State election official to send notice to applicant of the disposition of the application; 
+(3) provide that the name of a registrant may not be removed from the official list of eligible voters except— 
+(A) at the request of the registrant; 
+(B) as provided by State law, by reason of criminal conviction or mental 7 
+
+incapacity; or 
+(C) as provided under paragraph (4); 
+(4) conduct a general program that makes a reasonable effort to remove the names of ineligible voters from the official lists of eligible voters by reason of— 
+(A) the death of the registrant; or 
+(B) a change in the residence of the registrant, in accordance with subsections (b), (c), and (d); 
+(5) inform applicants under sections 5, 6, and 7 [52 USCS §§ 20504, 20505, 20506] of— 
+(A) voter eligibility requirements; and 
+(B) penalties provided by law for submission of a false voter registration application; and 
+(6) ensure that the identity of the voter registration agency through which any particular voter is registered is not disclosed to the public. 
+(b) Confirmation of voter registration. Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office— 
+(1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq. [52 USCS §§ 10301 et seq.]); and 
+(2) shall not result in the removal of the name of any person from the official list of voters registered to vote in an election for Federal office by reason of the person’s failure to vote, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) to remove an individual from the official list of eligible voters if the individual— 
+(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then 
+(B) has not voted or appeared to vote in 2 or more consecutive general elections for Federal office. 
+(c) Voter removal programs. 
+(1) A State may meet the requirement of subsection (a)(4) by establishing a program under which— 
+(A) change-of-address information supplied by the Postal Service through its licensees is used to identify registrants whose addresses may have changed; and 
+(B) if it appears from information provided by the Postal Service that— 
+(i) a registrant has moved to a different residence address in the same registrar’s jurisdiction in which the registrant is currently registered, the registrar changes the registration records to show the new address and sends the registrant a notice of the change by forwardable mail and a postage 8 
+
+prepaid pre-addressed return form by which the registrant may verify or correct the address information; or 
+(ii) the registrant has moved to a different residence address not in the same registrar’s jurisdiction, the registrar uses the notice procedure described in subsection (d)(2) to confirm the change of address. 
+(2) 
+(A) A State shall complete, not later than 90 days prior to the date of a primary or general election for Federal office, any program the purpose of which is to systematically remove the names of ineligible voters from the official lists of eligible voters. 
+(B) Subparagraph (A) shall not be construed to preclude— 
+(i) the removal of names from official lists of voters on a basis described in paragraph (3)(A) or (B) or (4)(A) of subsection (a); or 
+(ii) correction of registration records pursuant to this Act. 
+(d) Removal of names from voting rolls. 
+(1) A State shall not remove the name of a registrant from the official list of eligible voters in elections for Federal office on the ground that the registrant has changed residence unless the registrant— 
+(A) confirms in writing that the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered; or 
+(B) 
+(i) has failed to respond to a notice described in paragraph (2); and 
+(ii) has not voted or appeared to vote (and, if necessary, correct the registrar’s record of the registrant’s address) in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice. 
+(2) A notice is described in this paragraph if it is a postage prepaid and pre-addressed return card, sent by forwardable mail, on which the registrant may state his or her current address, together with a notice to the following effect: 
+(A) If the registrant did not change his or her residence, or changed residence but remained in the registrar’s jurisdiction, the registrant should return the card not later than the time provided for mail registration under subsection (a)(1)(B). If the card is not returned, affirmation or confirmation of the registrant’s address may be required before the registrant is permitted to vote in a Federal election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice, and if the registrant does not vote in an election during that period the registrant’s name will be removed from the list of eligible voters. 
+(B) If the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered, information concerning how the 9 
+
+registrant can continue to be eligible to vote. 
+(3) A voting registrar shall correct an official list of eligible voters in elections for Federal office in accordance with change of residence information obtained in conformance with this subsection. 
+(e) Procedure for voting following failure to return card. 
+(1) A registrant who has moved from an address in the area covered by a polling place to an address in the same area shall, notwithstanding failure to notify the registrar of the change of address prior to the date of an election, be permitted to vote at that polling place upon oral or written affirmation by the registrant of change of address before an election official at that polling place. 
+(2) 
+(A) A registrant who has moved from an address in the area covered by one polling place to an address in an area covered by a second polling place within the same registrar’s jurisdiction and the same congressional district and who has failed to notify the registrar of the change address prior to the date of an election, at the option of the registrant— 
+(i) shall be permitted to correct the voting records and vote at the registrant’s former polling place, upon oral or written affirmation by the registrant of the new address before an election official at that polling place; or 
+(ii) 
+(I) shall be permitted to correct the voting records and vote at a central location within the same registrar’s jurisdiction designated by the registrar where a list of eligible voters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or 
+(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law. 
+(B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph (A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options. 
+(3) If the registration records indicate that a registrant has moved from an address in the area covered by a polling place, the registrant shall upon oral or written affirmation by the registrant before an election official at that polling place that the registrant continues to reside at the address previously made known to the registrar, be permitted to vote at that polling place. 
+(f) Change of voting address within a jurisdiction. In the case of a change of address, for voting purposes, of a registrant to another address within the same registrar’s 10 
+
+jurisdiction, the registrar shall correct the voting registration list accordingly, and the registrant’s name may not be removed from the official list of eligible voters by reason of such a change of address except as provided in subsection (d). 
+(g) Conviction in Federal court. 
+(1) On the conviction of a person of a felony in a district court of the United States, the United States attorney shall give written notice of the conviction to the chief State election official designated under section 10 [52 USCS § 20509] of the State of the person’s residence. 
+(2) A notice given pursuant to paragraph (1) shall include— 
+(A) the name of the offender; 
+(B) the offender’s age and residence address; 
+(C) the date of entry of the judgment; 
+(D) a description of the offenses of which the offender was convicted; and 
+(E) the sentence imposed by the court. 
+(3) On request of the chief State election official of a State or other State official with responsibility for determining the effect that a conviction may have on an offender’s qualification to vote, the United States attorney shall provide such additional information as the United States may have concerning the offender and the offense of which offender was convicted. 
+(4) If a conviction of which notice was given pursuant to paragraph (1) is overturned, the United States attorney shall give the official to whom the notice was given written notice of the vacation of the judgment. 
+(5) The chief State election official shall notify the voter registration officials of the local jurisdiction in which an offender resides of the information received under this subsection. 
+(h) [Omitted] 
+(i) Public disclosure of voter registration activities. 
+(1) Each State shall maintain for at least 2 years and shall make available for public inspection and, where available, photocopying at a reasonable cost, all records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of official lists of eligible voters, except to the extent that such records relate to a declination to register to vote or to the identity of a voter registration agency through which any particular voter is registered. 
+(2) The records maintained pursuant to paragraph (1) shall include lists of the names and addresses of all persons to whom notices described in subsection (d)(2) are sent, and information concerning whether or not each such person has responded to the notice as of the date that inspection of the records is made. 
+(j) “Registrar’s jurisdiction” defined. For the purposes of this section, the term “registrar’s jurisdiction” means— 11 
+
+(1) an incorporated city, town, borough, or other form of municipality; 
+(2) if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than a municipality, the geographic area governed by that unit of government; or 
+(3) if voter registration is maintained on a consolidated basis for more than one municipality or other unit of government by an office that performs all of the functions of a voting registrar, the geographic area of the consolidated municipalities or other geographic units. 12 
+
+List Maintenance Program 
+An important safeguard of the integrity of North Carolina’s elections is a systematic program that ensures that only eligible and qualified voters are on the state’s voter rolls and that such voters are not erroneously removed from the rolls. The State Board of Elections is required to adopt a list maintenance program that is uniform and nondiscriminatory. 
+The North Carolina State Board of Elections, in conjunction with the 100 county boards of elections, has a continuous and systematic program to maintain and update county voter registration lists, consistent with state and federal law. That program is detailed in this Voter Registration List Maintenance document, which explains the many activities that take place to ensure the currency and accuracy of the voter rolls, at various stages in the registration and voting processes. 
+This list maintenance program is strengthened by successful working relationships with the N.C. Division of Motor Vehicles (DMV), the N.C. Department of Public Safety (DPS), and the N.C. Department of Health and Human Services (DHHS). 
+List maintenance may not be conducted based on lists submitted by third parties. These lists submitted by third parties may not have been generated in a nondiscriminatory and uniform way, as is required by law. 13 
+
+Verification Mailings 
+Mail Verification - New Voter Mailing Process 
+When a county board of elections receives an application for registration, the board must either: (1) determine that the applicant is not qualified to vote at the address given, or (2) make a tentative determination that the applicant is qualified to vote at the address given, subject to the mail verification procedure outlined below. If the county board determines that the applicant is not qualified to register, the board must send, by certified mail, a notice of denial of registration within two business days after denial. If the applicant disagrees with the denial, the applicant may appeal the decision under N.C.G.S. § 163-82.18. 
+First Verification Notice 
+Upon receipt of a complete application for original registration, and after determining that the applicant is qualified to vote at the address given, the county board of elections must mail a non-forwardable, first-class verification notice to the address indicated on the application. The notice will be sent to the mailing address if different from the residential address. The applicant will be considered Active Pending until the address is verified. 
+The voter’s address is considered Verified 15 days after the notice is sent unless the notice is returned by the U.S. Postal Service as undeliverable. 
+Second Verification Notice 
+If the U.S. Postal Service returns the first verification notice as undeliverable, the county board of elections must send a second non-forwardable, first-class verification notice to the address indicated on the application. The second notice must be sent to the same address as the first. The applicant will be considered Active Pending until the address is verified. The voter’s address is considered Verified 15 days after the notice is sent unless the notice is returned by the U.S. Postal Service as undeliverable. 
+Denial of Registration for Undeliverability 
+If the U.S. Postal Service returns the second verification notice as undeliverable, the 
+voter’s registration will be Denied. No further mailing will be sent to the registrant. 14 
+
+Mail Verification – Update Voter Mailing Process 
+First Verification Notice 
+Upon receipt of an application from an Active voter for a change of address, name, or party affiliation, the new information should be recorded in the voter record. The county board of elections must then send a non-forwardable, first-class verification notice to the address indicated on the application. The notice should be sent to the mailing address, if different from the residential address. The voter’s address is considered Verified 15 days after the notice is sent unless the notice is returned by the U.S. Postal Service as undeliverable. The voter remains Active during the verification procedure and no further action is required unless the notice is returned as undeliverable by the U.S. Postal Service. 
+Confirmation Notice to a Forwarding Address 
+If the U.S. Postal Service returns the first verification notice as undeliverable, but provides a forwarding address for the applicant, the county board of elections should mail a forwardable, first-class address correction notice (confirmation notice) to the forwarding address. The notice should include a postage prepaid return card so the applicant can respond. The address correction notice should clearly state that the county board of elections, in attempting to verify information on the application/update form, has determined that the applicant may have moved. The notice should request the applicant to complete the form on the address correction notice and return to the county board of elections. Once an address correction notice has been sent, the voter’s status in State Election Information Management System (SEIMS) is considered an Unverified Change. 
+If the address correction notice is returned confirming the forwarding address, the county board of elections should make the correction on the applicant’s voter record and send a verification notice to the forwarding application address. If the address correction notice is returned indicating a new address different from the forwarding address, the county board of elections should make the change on the applicant’s voter record and send a verification notice. Because the transaction has now become a change of address as well as a change of any other information, the applicant is returned to Active status during the verification process. The voter’s address is considered Verified 15 days after the notice is sent unless the notice is returned by the U.S. Postal Service as undeliverable. The voter remains Active during the verification procedure and no further action is required unless the notice is returned as undeliverable by the U.S. Postal Service. If a notice is returned undeliverable, the county board of elections would follow the procedures for an address confirmation notice (as set out below). 
+Confirmation Notice Due to Undeliverability 
+If the first notice is returned as undeliverable by the U.S. Postal Service (and no forwarding address is provided by the U.S. Postal Service), the county board of elections will send a 15 
+
+forwardable, first-class confirmation notice to the voter’s old address (i.e., the address on file prior to the registration update). Once a confirmation notice is sent, the voter’s status in SEIMS is considered Confirmation Pending. The confirmation notice includes a postage prepaid return card and requires a response from the voter. If the confirmation notice is returned by the U.S. Postal Service as undeliverable, or is not returned at all, within thirty (30) days of the date the notice was sent, the county board of elections would consider the voter Inactive. To make a voter Inactive for a primary or general election, the confirmation process must be completed at least ninety (90) days prior to the date of the election, as required by federal law. Voters who are entered into the confirmation process less than ninety (90) days before a primary or general election are not considered Inactive for that primary or general election. 16 
+
+Verification Card (Mailing Side) 
+Verification Card (Form Side) 17 
+
+Death 
+As part of North Carolina’s list maintenance program, county boards are required to remove any voter for whom they receive an official death notification. County boards of elections must exercise extreme caution and due diligence when conducting research to remove potentially deceased voters. Counties must review death information provided by the State Board of Elections of all deaths to ensure all ineligible voters are removed from the voter registration list and no eligible voter is inadvertently removed. When researching the list of registered voters, the county board may not remove a voter unless there is an exact database match on the voter’s name, date of birth and/or identification information with the records of the deceased that are received from DHHS or a near relative. 
+County boards must perform list maintenance on a weekly basis using the lists of deceased individuals provided by DHHS. 
+Source of Death Information 
+The primary source of death notifications is DHHS. Each week, the State Board receives, from DHHS, a list of individuals who have died in the state. The list is then processed by the State Board and made available to the county boards electronically. The State Board provides two lists to the county boards each month: (1) a list that reflects all persons who died, and their last places of residence in North Carolina and (2) a subset of the original list that reflects deceased persons that the State Board has matched to registered voters in the state. The list includes people who died in North Carolina and approximately 35 other states. The report does not include the deaths of North Carolina residents who died in South Carolina and Virginia because DHHS is not permitted to share information they receive from those states with third-party entities. 
+Previously, the death information received from DHHS was usually two to three months behind. In 2022, DHHS implemented NCDAVE, which transitioned from a paper to an electronic death records system. As a result, death records are reported very soon after they are entered into the system by county registers of deeds and other entities who provide official reports of deaths. 
+County boards are also permitted to receive official death notifications or reports from their local register of deeds offices. Counties should note that register of deeds death information only reflects persons who died within the county. Not all persons who die in a county actually live in the county. Likewise, registered voters in a county can die outside of their county of residence, either in another county or another state. 
+County boards may also remove a deceased voter upon receiving written confirmation of the 18 
+
+voter’s death from a near relative. There is a Notification of Deceased Voter form1 
+1 https://s3.amazonaws.com/dl.ncsbe.gov/sboe/forms/NotificationofDeceasedVoterFormSBOE.pdf for this purpose or the near relative may simply send in a written notice. The notification must be signed by the near relative. 
+Persons considered a “Near Relative” 
+“Near relative” means spouse, brother, sister, parent, grandparent, child, grandchild, mother-in-law, father-in-law, daughter-in-law, son-in-law, stepparent, or stepchild. 
+County boards may not use a newspaper obituary, Facebook posting, unofficial death website or any other non-governmental entity to remove a voter from the list of registered voters. 
+Death Reports 
+DHHS County List 
+This report reflects reported deaths of county residents sent to the State Board by DHHS. This list is not matched to the list of registered voters in the county. New data for this report should be available by the Wednesday of each week. 
+DHHS State Matching List 
+This weekly report reflects reported deaths sent to the State Board by DHHS that the State Board has matched to registered voters within SEIMS. New data for this report should be available by the Wednesday of each week. 
+DHHS Search 
+This on-demand report reflects all death records that have been received from DHHS. County boards can search for a specific person within all death records provided by DHHS to the State Board. The user must enter county, last name, and birth date. New data for this report should be available by the Wednesday of each week. 19 
+
+Felony Conviction 
+Once a person is convicted of a felony, they lose the right to vote in North Carolina until they have completed their sentence. This includes completing any aspect of their sentences in prison or jail, as well as any period of probation, post-release supervision, or parole associated with a felony sentence. Once their period of supervision is over, a person convicted of a felony automatically regains the right to vote. They must still register to vote, even if they were previously registered to vote prior to being convicted of a felony. 
+Having financial debt associated with a felony sentence—for example, fines, fees, or restitution—does not necessarily make someone ineligible to register or vote. Someone can have their probation period extended due to failure to pay such financial debt, in which case they are still not eligible to vote. However, probation can and does end for many people with remaining debts. If a person’s period of felony supervision is over, they regain their voting rights, even if they have remaining debts associated with their sentence. 
+As part of regular list maintenance processes, the State Board and county boards of elections receive regular updates from the N.C. Department of Adult Correction (DAC) and U.S. Department of Justice on North Carolinians who are not eligible to register or vote. Such names are removed from the voter rolls, upon notice and an opportunity for the voter to object. Similarly, such names are flagged for denial of voter registration, until their sentences are complete. 
+Denial of Voter Registration due to Felony Conviction 
+Pursuant to N.C.G.S. § 163-82.7, when a county board of elections receives an application for registration, the board either: (1) determines that the applicant is not qualified to vote, or (2) shall make a tentative determination that the applicant is qualified to vote at the address given, subject to the mail verification notice procedure (outlined above). 
+Upon processing a voter registration application received from an applicant, the SEIMS system will check the felony conviction database to determine if the voter registration applicant is currently serving a sentence for a felony conviction. If an applicant for new registration in the county is determined to be serving a sentence for felony conviction, then SEIMS will flag the registrant to receive a Notice of Denial of Voter Registration. County boards of elections must promptly send the denial notice by certified mail within two business days of denial; thus, county boards of elections must check the SEIMS incomplete queue daily to determine if a registrant has been denied voter registration. 20 
+
+Pursuant to N.C.G.S. § 163-82.18, any applicant who receives notice of denial of registration may appeal the denial within five days after receipt of the notice of denial. The county board of elections shall promptly set a date for a public hearing. The denial letter generated by SEIMS will indicate that it must be signed by the applicant and include the applicant’s name, date of birth, address, and reasons for the appeal. 
+Once the signed certified mail receipt is returned by the postal service, the county board of elections must schedule a five-day calendar reminder to determine if the applicant has appealed the denial of registration. 
+After five days, if there is no appeal of the denial of registration, then the county board of elections shall archive the denied registration. No additional follow up is required. If the individual appeals the denial, the county board of elections shall change the incomplete reason to “other” and manually enter “Appeal Denial of Registration due Felony Conviction” in the incomplete reason comment box and set a date for the appeal hearing. 
+Denial is Sustained 
+If the denial is sustained, the voter registration record must be archived. The applicant is not qualified to be registered and to vote. 
+Denial is Overruled 
+If the denial is overruled, the record will be processed through to the voter registration database. The applicant is qualified to be registered and to vote. 
+Removal of Registration Due to Felony Conviction 
+Automated List Maintenance: Felony Status Determined by Processing Registration Application for Existing Registrant 
+Upon processing a voter registration application received from an applicant, the SEIMS system will check the felony conviction database to determine if the applicant is serving a sentence for a felony conviction. If the applicant is an existing voter in the county (Active, Inactive, or Temporary) and the system determines the voter is serving a sentence for a felony conviction, then SEIMS will flag the registration to receive a removal notice. This process is based on matching the voter record with the felony record. The matching criteria is one of the following: 
+• DL Match - date of birth and NCDMV customer number. 
+• SSN-4 Match - first name, last name, date of birth and the last four digits of the social security number. 
+21 
+
+County boards of elections must promptly send a removal notice and allow the voter 30 days to object to their removal. Accordingly, county boards of elections must check the SEIMS incomplete queue daily to determine if an existing voter has been flagged to receive a removal notice due to a disqualifying felony conviction. 
+Once a removal notice is generated and printed, the SEIMS system will keep the voter registered for 35 days, to allow any objections to be processed (30 days plus 5 days for mail). 
+Administrative List Maintenance: Felony Status Determined by State or Federal Reports 
+County boards of elections must cancel the voter registration of persons who are serving a sentence for a felony conviction. County boards of elections receive reports of felony convictions from two sources: 
+• Report of Conviction Within the State – The State Board of Elections provides to county boards of elections a real-time report that is updated daily. The report includes the name, county of residence, and residence address, if available, of each individual serving a felony sentence, including any period of probation, post-release supervision, or parole. 
+• Report of Federal Conviction – The State Board of Elections, upon receipt of a notice of conviction sent by a United States Attorney pursuant to section 8(g) of the National Voter Registration Act, shall notify the county boards of elections of the conviction. 
+
+State Felony Conviction Report 
+The State Board receives information about persons serving a sentence for a felony conviction daily from the North Carolina Department of Adult Correction (DAC). The State Board provides county boards of elections two reports to show the current list of persons serving a felony sentence, including any period of probation, post-release supervision, or parole: DOC* 
+Felon County List This report shows persons who are serving a felony sentence in the county. It has not been matched with voters in SEIMS. The user must select county and may select conviction month and year. DOC* This report shows persons who are serving a felony sentence Felon State who have potentially been matched to existing voters. The Matching user must select county and may select conviction month and List year. 
